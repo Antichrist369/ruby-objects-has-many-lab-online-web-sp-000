@@ -13,7 +13,7 @@ class Song
   end 
   
   def self.all 
-    @@song_count.each
+    @@song_count
   end 
   
   
